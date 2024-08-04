@@ -34,5 +34,6 @@ Key activities:
    Version Control: Git for source code management and collaboration.
 
    
-![Screenshot ![Screenshot 2024-08-04 131641](https://github.com/user-attachments/assets/5cb150d2-2eb9-4959-b63d-b4505fb380da)
-2024-08-04 131626](https://github.com/user-attachments/assets/6c01710b-cd73-4821-bdc4-e6b3b800a1c7)
+![Screenshot 2024-08-04 131626](https://github.com/user-attachments/assets/58c05636-5f9e-4986-8f26-5da7cba91f84)
+![Screenshot 2024-08-04 131641](https://github.com/user-attachments/assets/6d9ee799-0635-4495-b18d-132b1d008c34)
+

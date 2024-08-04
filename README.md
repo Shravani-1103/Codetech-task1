@@ -32,3 +32,7 @@ Key activities:
 4. Development and Testing Tools:
    IDE: Arduino IDE, Thonny (for Python), or Visual Studio Code.
    Version Control: Git for source code management and collaboration.
+
+   
+![Screenshot ![Screenshot 2024-08-04 131641](https://github.com/user-attachments/assets/5cb150d2-2eb9-4959-b63d-b4505fb380da)
+2024-08-04 131626](https://github.com/user-attachments/assets/6c01710b-cd73-4821-bdc4-e6b3b800a1c7)
